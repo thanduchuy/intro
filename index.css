@@ -109,3 +109,9 @@ body {
 	transform: scale(1.06);
 	background-color: rgba(17, 2, 2, 0.44);
 }
+.intro .features .itemFeatures:hover {
+	background: #777777;
+}
+.intro .features .itemFeatures:hover p {
+	color: white;
+}
